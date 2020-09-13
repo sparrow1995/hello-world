@@ -1,2 +1,5 @@
 # hello-world
-Hello world
+
+Hello world!
+
+Trobot here, i like to learn everything and drink coffee. 
